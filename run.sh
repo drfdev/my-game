@@ -1,0 +1,1 @@
+java -jar .setup/gdx-setup.jar
